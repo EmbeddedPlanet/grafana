@@ -55,7 +55,7 @@ export const LicenseChrome: React.FC<Props> = ({ header, editionNotice, subheade
           }}
         >
           <img
-            src="public/img/grafana_icon.svg"
+            src="public/img/ep-big-logo-300x219.png"
             alt="Grafana"
             width="80px"
             style={{ position: 'absolute', left: '23px', top: '20px' }}
